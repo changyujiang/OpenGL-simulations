@@ -1,8 +1,7 @@
 # USC CSCI420 Computer Graphics
-===============================
+------------------------------
 
 1. Assignment 1 Height Field
-------------------------------
 
 <dl>
 	<dt>Decription</dt>
