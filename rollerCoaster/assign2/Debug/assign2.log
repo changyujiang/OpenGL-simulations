@@ -1,0 +1,21 @@
+﻿  assign2.cpp
+d:\usc\csci420\assign2\assign2_sub\assign2\assign2\assign2\assign2.cpp(108): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+d:\usc\csci420\assign2\assign2_sub\assign2\assign2\assign2\assign2.cpp(115): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: 参见“fscanf”的声明
+d:\usc\csci420\assign2\assign2_sub\assign2\assign2\assign2\assign2.cpp(122): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: 参见“fscanf”的声明
+d:\usc\csci420\assign2\assign2_sub\assign2\assign2\assign2\assign2.cpp(123): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+d:\usc\csci420\assign2\assign2_sub\assign2\assign2\assign2\assign2.cpp(131): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: 参见“fscanf”的声明
+d:\usc\csci420\assign2\assign2_sub\assign2\assign2\assign2\assign2.cpp(138): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: 参见“fscanf”的声明
+d:\usc\csci420\assign2\assign2_sub\assign2\assign2\assign2\assign2.cpp(602): warning C4018: “<”: 有符号/无符号不匹配
+d:\usc\csci420\assign2\assign2_sub\assign2\assign2\assign2\assign2.cpp(644): warning C4018: “<”: 有符号/无符号不匹配
+d:\usc\csci420\assign2\assign2_sub\assign2\assign2\assign2\assign2.cpp(746): warning C4018: “>=”: 有符号/无符号不匹配
+d:\usc\csci420\assign2\assign2_sub\assign2\assign2\assign2\assign2.cpp(750): warning C4018: “>=”: 有符号/无符号不匹配
+d:\usc\csci420\assign2\assign2_sub\assign2\assign2\assign2\assign2.cpp(790): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+  assign2.vcxproj -> D:\USC\CSCI420\Assign2\assign2_sub\assign2\assign2\Debug\assign2.exe
+  assign2.vcxproj -> D:\USC\CSCI420\Assign2\assign2_sub\assign2\assign2\Debug\assign2.pdb (Partial PDB)
