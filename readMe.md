@@ -1,7 +1,4 @@
-# USC CSCI420 Computer Graphics
-------------------------------
-
-## Assignment1 Height Field
+## Height Field
 
 <dl>
 	<dt>Decription</dt>
@@ -12,7 +9,7 @@
 
 ![demo](/heightField/assign1-demo.gif)
 
-## Assignment2 Roller Coaster
+## Roller Coaster
 
 <dl>
 	<dt>Decription</dt>
