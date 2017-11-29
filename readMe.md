@@ -19,3 +19,9 @@
 </dl>
 
 ![demo2](/rollerCoaster/assign2-demo.gif)
+
+## Reviews
+* Basic graphics programming
+    * how to render something from secene to image? different approaches? from top-level to bottom
+        * camera, ligth, scence
+        * object-based light-based
